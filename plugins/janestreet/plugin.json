@@ -1,0 +1,27 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "janestreet",
+  "version": "0.1.0",
+  "description": "Socratic tutoring skills from Jane Street, packaged for Agent Nook.",
+  "author": { "name": "Jane Street Group, LLC" },
+  "homepage": "https://github.com/janestreet/agent_skills",
+  "license": "MIT",
+  "extensions": {
+    "com.openai": {
+      "interface": {
+        "displayName": "Jane Street",
+        "shortDescription": "Structured Socratic tutoring",
+        "longDescription": "Jane Street's Socratic tutor skill, packaged by Agent Nook. Unofficial packaging; not affiliated with or endorsed by Jane Street.",
+        "developerName": "Agent Nook",
+        "category": "Education",
+        "websiteURL": "https://github.com/janestreet/agent_skills",
+        "composerIcon": "./assets/icon-light.svg",
+        "composerIconDark": "./assets/icon-dark.svg",
+        "logo": "./assets/icon-light.svg",
+        "logoDark": "./assets/icon-dark.svg",
+        "brandColor": "#17435C",
+        "brandColorDark": "#A4D8EE"
+      }
+    }
+  }
+}

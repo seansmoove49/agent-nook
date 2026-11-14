@@ -1,0 +1,5 @@
+interface:
+  display_name: "Git Commit"
+  short_description: "Stage related changes and create Conventional Commits"
+  icon_small: "../../assets/icon-light.svg"
+  icon_large: "../../assets/icon-light.svg"

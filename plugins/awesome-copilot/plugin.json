@@ -1,0 +1,25 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "awesome-copilot",
+  "version": "0.1.0",
+  "description": "Selected skills from GitHub's Awesome Copilot collection, packaged for Agent Nook.",
+  "author": { "name": "Awesome Copilot contributors" },
+  "homepage": "https://github.com/github/awesome-copilot",
+  "license": "MIT",
+  "extensions": {
+    "com.openai": {
+      "interface": {
+        "displayName": "Awesome Copilot",
+        "shortDescription": "Careful Git commits using Conventional Commits",
+        "longDescription": "Selected community skills from Awesome Copilot. Unofficial packaging by Agent Nook; not endorsed by GitHub.",
+        "developerName": "Agent Nook",
+        "category": "Developer Tools",
+        "websiteURL": "https://github.com/github/awesome-copilot",
+        "composerIcon": "./assets/icon-light.svg",
+        "composerIconDark": "./assets/icon-dark.svg",
+        "logo": "./assets/icon-light.svg",
+        "logoDark": "./assets/icon-dark.svg"
+      }
+    }
+  }
+}

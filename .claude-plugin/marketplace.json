@@ -1,0 +1,19 @@
+{
+  "name": "agent-nook",
+  "owner": {
+    "name": "Sean Wang"
+  },
+  "description": "Personal skills and plugins for Claude and Codex.",
+  "plugins": [
+    {
+      "name": "janestreet",
+      "source": "./plugins/janestreet",
+      "description": "Socratic tutoring skills from Jane Street."
+    },
+    {
+      "name": "awesome-copilot",
+      "source": "./plugins/awesome-copilot",
+      "description": "Selected skills from GitHub's Awesome Copilot collection."
+    }
+  ]
+}

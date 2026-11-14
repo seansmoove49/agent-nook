@@ -1,0 +1,7 @@
+{
+  "name": "agent-nook",
+  "private": true,
+  "devDependencies": {
+    "skills": "1.8.1"
+  }
+}
