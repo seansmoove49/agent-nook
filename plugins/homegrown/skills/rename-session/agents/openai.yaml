@@ -1,0 +1,5 @@
+interface:
+  display_name: "Rename Session"
+  short_description: "Rename chats with searchable titles"
+  icon_small: "../../assets/icon-light.svg"
+  icon_large: "../../assets/icon-light.svg"
