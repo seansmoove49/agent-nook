@@ -6,5 +6,5 @@
     "name": "Sean Wang"
   },
   "homepage": "https://github.com/seansmoove49/agent-nook",
-  "icon": "../assets/icon-light.svg"
+  "icon": "./assets/icon-light.svg"
 }
