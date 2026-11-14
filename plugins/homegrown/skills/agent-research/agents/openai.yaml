@@ -1,0 +1,5 @@
+interface:
+  display_name: "Agent Research"
+  short_description: "Research AI agents and save reusable findings"
+  icon_small: "../../assets/icon-light.svg"
+  icon_large: "../../assets/icon-light.svg"
