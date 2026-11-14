@@ -20,7 +20,7 @@
     {
       "name": "janestreet",
       "displayName": "Jane Street",
-      "source": "./plugins/janestreet",
+      "source": "./plugins/jane-street",
       "description": "Socratic tutoring skills from Jane Street."
     },
     {
