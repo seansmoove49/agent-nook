@@ -1,9 +1,9 @@
 {
-  "name": "janestreet",
+  "name": "Jane Street",
   "version": "0.1.1",
   "description": "Jane Street's Socratic tutor, packaged by Agent Nook. Unofficial; not affiliated with or endorsed by Jane Street.",
   "author": { "name": "Jane Street Group, LLC" },
   "homepage": "https://github.com/janestreet/agent_skills",
   "license": "MIT",
-  "icon": "./assets/icon-light.svg"
+  "icon": "../assets/icon-light.svg"
 }
