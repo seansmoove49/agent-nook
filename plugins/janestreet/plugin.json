@@ -1,7 +1,7 @@
 {
   "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
   "name": "janestreet",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Socratic tutoring skills from Jane Street, packaged for Agent Nook.",
   "author": { "name": "Jane Street Group, LLC" },
   "homepage": "https://github.com/janestreet/agent_skills",

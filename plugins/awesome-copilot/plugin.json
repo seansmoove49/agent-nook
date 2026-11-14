@@ -1,7 +1,7 @@
 {
   "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
   "name": "awesome-copilot",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Selected skills from GitHub's Awesome Copilot collection, packaged for Agent Nook.",
   "author": { "name": "Awesome Copilot contributors" },
   "homepage": "https://github.com/github/awesome-copilot",
