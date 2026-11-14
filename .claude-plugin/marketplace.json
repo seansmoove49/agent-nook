@@ -7,21 +7,25 @@
   "plugins": [
     {
       "name": "homegrown",
+      "displayName": "Homegrown",
       "source": "./plugins/homegrown",
       "description": "Original skills created for Agent Nook."
     },
     {
       "name": "vercel",
+      "displayName": "Vercel",
       "source": "./plugins/vercel",
       "description": "Discover agent skills with Vercel's find-skills."
     },
     {
       "name": "janestreet",
+      "displayName": "Jane Street",
       "source": "./plugins/janestreet",
       "description": "Socratic tutoring skills from Jane Street."
     },
     {
       "name": "awesome-copilot",
+      "displayName": "Awesome Copilot",
       "source": "./plugins/awesome-copilot",
       "description": "Selected skills from GitHub's Awesome Copilot collection."
     }
