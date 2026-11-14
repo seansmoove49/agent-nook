@@ -1,0 +1,27 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "homegrown",
+  "version": "0.1.0",
+  "description": "Original skills created for Agent Nook.",
+  "author": {
+    "name": "Sean Wang"
+  },
+  "homepage": "https://github.com/seansmoove49/agent-nook",
+  "extensions": {
+    "com.openai": {
+      "interface": {
+        "displayName": "Homegrown",
+        "shortDescription": "Original skills created for Agent Nook.",
+        "longDescription": "Our own skills for everyday work, developed and maintained in Agent Nook.",
+        "developerName": "Sean Wang",
+        "category": "Productivity",
+        "composerIcon": "./assets/icon-light.svg",
+        "composerIconDark": "./assets/icon-dark.svg",
+        "logo": "./assets/icon-light.svg",
+        "logoDark": "./assets/icon-dark.svg",
+        "brandColor": "#236341",
+        "brandColorDark": "#A7E3B5"
+      }
+    }
+  }
+}

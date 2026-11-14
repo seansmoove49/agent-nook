@@ -6,6 +6,11 @@
   "description": "Personal skills and plugins for Claude and Codex.",
   "plugins": [
     {
+      "name": "homegrown",
+      "source": "./plugins/homegrown",
+      "description": "Original skills created for Agent Nook."
+    },
+    {
       "name": "vercel",
       "source": "./plugins/vercel",
       "description": "Discover agent skills with Vercel's find-skills."

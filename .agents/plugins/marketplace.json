@@ -5,6 +5,12 @@
   },
   "plugins": [
     {
+      "name": "homegrown",
+      "source": { "source": "local", "path": "./plugins/homegrown" },
+      "policy": { "installation": "AVAILABLE", "authentication": "ON_INSTALL" },
+      "category": "Productivity"
+    },
+    {
       "name": "vercel",
       "source": { "source": "local", "path": "./plugins/vercel" },
       "policy": { "installation": "AVAILABLE", "authentication": "ON_INSTALL" },
