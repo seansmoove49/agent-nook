@@ -16,11 +16,9 @@
         "category": "Education",
         "websiteURL": "https://github.com/janestreet/agent_skills",
         "composerIcon": "./assets/icon-light.svg",
-        "composerIconDark": "./assets/icon-dark.svg",
         "logo": "./assets/icon-light.svg",
         "logoDark": "./assets/icon-dark.svg",
-        "brandColor": "#17435C",
-        "brandColorDark": "#A4D8EE"
+        "brandColor": "#17435C"
       }
     }
   }

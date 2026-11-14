@@ -16,7 +16,6 @@
         "category": "Developer Tools",
         "websiteURL": "https://github.com/github/awesome-copilot",
         "composerIcon": "./assets/icon-light.svg",
-        "composerIconDark": "./assets/icon-dark.svg",
         "logo": "./assets/icon-light.svg",
         "logoDark": "./assets/icon-dark.svg"
       }

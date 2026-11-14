@@ -18,7 +18,6 @@
         "category": "Developer Tools",
         "websiteURL": "https://github.com/vercel-labs/skills",
         "composerIcon": "./assets/icon-light.svg",
-        "composerIconDark": "./assets/icon-dark.svg",
         "logo": "./assets/icon-light.svg",
         "logoDark": "./assets/icon-dark.svg"
       }

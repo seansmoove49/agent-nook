@@ -16,11 +16,9 @@
         "developerName": "Sean Wang",
         "category": "Productivity",
         "composerIcon": "./assets/icon-light.svg",
-        "composerIconDark": "./assets/icon-dark.svg",
         "logo": "./assets/icon-light.svg",
         "logoDark": "./assets/icon-dark.svg",
-        "brandColor": "#236341",
-        "brandColorDark": "#A7E3B5"
+        "brandColor": "#236341"
       }
     }
   }
