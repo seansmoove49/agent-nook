@@ -1,0 +1,5 @@
+interface:
+  display_name: "Find Skills"
+  short_description: "Discover agent skills"
+  icon_small: "../../assets/icon-light.svg"
+  icon_large: "../../assets/icon-light.svg"

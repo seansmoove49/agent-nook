@@ -6,6 +6,11 @@
   "description": "Personal skills and plugins for Claude and Codex.",
   "plugins": [
     {
+      "name": "vercel",
+      "source": "./plugins/vercel",
+      "description": "Discover agent skills with Vercel's find-skills."
+    },
+    {
       "name": "janestreet",
       "source": "./plugins/janestreet",
       "description": "Socratic tutoring skills from Jane Street."

@@ -1,0 +1,27 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "vercel",
+  "version": "1.8.1",
+  "description": "Vercel's find-skills skill. Unofficial packaging by Agent Nook.",
+  "author": {
+    "name": "Vercel"
+  },
+  "homepage": "https://github.com/vercel-labs/skills",
+  "license": "MIT",
+  "extensions": {
+    "com.openai": {
+      "interface": {
+        "displayName": "Vercel",
+        "shortDescription": "Discover agent skills",
+        "longDescription": "Vercel's find-skills workflow, independently packaged by Agent Nook. Not endorsed by Vercel.",
+        "developerName": "Agent Nook",
+        "category": "Developer Tools",
+        "websiteURL": "https://github.com/vercel-labs/skills",
+        "composerIcon": "./assets/icon-light.svg",
+        "composerIconDark": "./assets/icon-dark.svg",
+        "logo": "./assets/icon-light.svg",
+        "logoDark": "./assets/icon-dark.svg"
+      }
+    }
+  }
+}

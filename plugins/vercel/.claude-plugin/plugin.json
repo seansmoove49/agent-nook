@@ -1,0 +1,11 @@
+{
+  "name": "vercel",
+  "version": "1.8.1",
+  "description": "Vercel's find-skills skill. Unofficial packaging by Agent Nook.",
+  "author": {
+    "name": "Vercel"
+  },
+  "homepage": "https://github.com/vercel-labs/skills",
+  "license": "MIT",
+  "icon": "./assets/icon-light.svg"
+}
