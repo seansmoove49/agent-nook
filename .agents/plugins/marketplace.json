@@ -17,7 +17,7 @@
       "category": "Developer Tools"
     },
     {
-      "name": "janestreet",
+      "name": "jane-street",
       "source": { "source": "local", "path": "./plugins/jane-street" },
       "policy": { "installation": "AVAILABLE", "authentication": "ON_INSTALL" },
       "category": "Education"
