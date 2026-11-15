@@ -15,7 +15,8 @@ Use this structure when practical:
 
 - Prefer four to eight words.
 - Put the most distinctive project, person, product, file, feature, or error first.
-- Keep the topic before the colon consistent across related sessions. When the harness can list other session titles, check them first and reuse an existing topic verbatim when this session belongs to it, such as `Agent Nook Marketplace` rather than a new `Agent Nook`. Coin a new topic only when none fits.
+- Do not repeat the project name as the topic when the harness already groups or labels the session by its project folder. Choose a narrower topic within the project instead, such as `Marketplace` or `Rename Skill` for a session in the `agent-nook` folder, or drop the topic and colon when the task alone is clear. Keep the project name only for sessions with no project folder.
+- Keep the topic before the colon consistent across related sessions. When the harness can list other session titles, check them first and reuse an existing topic verbatim when this session belongs to it, such as `Marketplace` rather than a new `Plugin Marketplace`. Coin a new topic only when none fits.
 - After the colon, capitalize the first word and use lowercase for the remaining words except proper nouns and established acronyms.
 - Reflect the session's actual outcome, especially when it changed direction after the opening request.
 - Preserve useful retrieval terms such as project names, filenames, feature names, and error codes.
