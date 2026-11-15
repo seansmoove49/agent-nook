@@ -1,0 +1,5 @@
+interface:
+  display_name: "Todoist"
+  short_description: "Manage Todoist tasks and projects"
+  icon_small: "../../assets/icon-light.svg"
+  icon_large: "../../assets/icon-light.svg"

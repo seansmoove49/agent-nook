@@ -1,0 +1,25 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "todoist",
+  "version": "0.1.0",
+  "description": "Manage Todoist tasks and projects through Todoist's official remote MCP server.",
+  "author": {
+    "name": "Sean Wang"
+  },
+  "homepage": "https://github.com/seansmoove49/agent-nook",
+  "extensions": {
+    "com.openai": {
+      "interface": {
+        "displayName": "Todoist",
+        "shortDescription": "Manage Todoist tasks and projects",
+        "longDescription": "Add, find, reschedule, and complete Todoist tasks through Todoist's official remote MCP server. Sign in with your Todoist account on first use.",
+        "developerName": "Sean Wang",
+        "category": "Productivity",
+        "composerIcon": "./assets/icon-light.svg",
+        "logo": "./assets/icon-light.svg",
+        "logoDark": "./assets/icon-dark.svg",
+        "brandColor": "#E44332"
+      }
+    }
+  }
+}
