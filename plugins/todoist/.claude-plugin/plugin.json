@@ -1,0 +1,11 @@
+{
+  "name": "todoist",
+  "displayName": "Todoist",
+  "version": "0.1.0",
+  "description": "Manage Todoist tasks and projects through Todoist's official remote MCP server.",
+  "author": {
+    "name": "Sean Wang"
+  },
+  "homepage": "https://github.com/seansmoove49/agent-nook",
+  "icon": "./assets/icon-light.svg"
+}
