@@ -1,0 +1,5 @@
+interface:
+  display_name: "New Session"
+  short_description: "Start a session under the right project"
+  icon_small: "../../assets/icon-light.svg"
+  icon_large: "../../assets/icon-light.svg"
