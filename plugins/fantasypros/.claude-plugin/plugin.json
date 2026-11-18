@@ -1,0 +1,11 @@
+{
+  "name": "fantasypros",
+  "displayName": "FantasyPros",
+  "version": "0.1.0",
+  "description": "Fantasy football and baseball rankings, projections, news, and league advice through FantasyPros' official remote MCP server.",
+  "author": {
+    "name": "Sean Wang"
+  },
+  "homepage": "https://github.com/seansmoove49/agent-nook",
+  "icon": "./assets/icon-light.svg"
+}

@@ -37,6 +37,12 @@
       "displayName": "Todoist",
       "source": "./plugins/todoist",
       "description": "Todoist's official MCP server for managing tasks and projects."
+    },
+    {
+      "name": "fantasypros",
+      "displayName": "FantasyPros",
+      "source": "./plugins/fantasypros",
+      "description": "FantasyPros' official MCP server for fantasy rankings, projections, and league advice."
     }
   ]
 }

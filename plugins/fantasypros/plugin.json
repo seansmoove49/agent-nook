@@ -1,0 +1,25 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "fantasypros",
+  "version": "0.1.0",
+  "description": "Fantasy football and baseball rankings, projections, news, and league advice through FantasyPros' official remote MCP server.",
+  "author": {
+    "name": "Sean Wang"
+  },
+  "homepage": "https://github.com/seansmoove49/agent-nook",
+  "extensions": {
+    "com.openai": {
+      "interface": {
+        "displayName": "FantasyPros",
+        "shortDescription": "Fantasy rankings, projections, and league advice",
+        "longDescription": "Get FantasyPros expert consensus rankings, projections, news, waiver targets, and start/sit advice for your synced leagues through FantasyPros' official remote MCP server. Sign in with your FantasyPros account on first use; advice tools need a premium subscription.",
+        "developerName": "Sean Wang",
+        "category": "Lifestyle",
+        "composerIcon": "./assets/icon-light.svg",
+        "logo": "./assets/icon-light.svg",
+        "logoDark": "./assets/icon-dark.svg",
+        "brandColor": "#081D3F"
+      }
+    }
+  }
+}
